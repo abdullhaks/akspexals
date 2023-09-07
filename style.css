@@ -1,0 +1,71 @@
+
+
+
+.navbar-toggler {
+    border: 2px solid coral;
+  }
+  #top{
+    background-image: url(./image/pexels-cecile-hournau-15668622.jpg );
+    
+    
+  }
+
+  #btup{
+    width: 8rem;
+    height: 3rem;
+
+  }
+ .but{
+  width: 20%;
+  margin: 2;
+  border: 2px solid rgb(197, 196, 195);
+  border-radius: 6px;
+ }
+ .serc{
+  width: 70%;
+  
+  
+ }
+ .search{
+  outline: none;
+  border: none;
+  padding-left: 20px;
+  font-size: 20px;
+  width: 100%;
+
+ }
+ .srchic{
+  display: flex;
+  width: 10%;
+  justify-content: end;
+
+ }
+ #texts{
+  padding-top: 5rem;
+ }
+.bi{
+  margin-left: 4px;
+}
+.searchbar{
+  margin-top: 50rem;
+  
+}
+.trendlink{
+  text-decoration: none;
+}
+.more{
+  width: 20px;
+  height: 20px;
+  
+  
+}
+.profile1{
+  padding-top: 5rem;
+}
+#post{
+  cursor: pointer;
+}
+#post  :hover{
+  filter:brightness(90%)
+
+}
